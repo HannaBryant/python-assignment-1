@@ -1,2 +1,2 @@
 # python-assignment-1
-short assignment learning python.
+First class assignment learning/using python, this includes a simple calculator.
